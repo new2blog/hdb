@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
 
 #dropdown-menu-2btn-0 .hide-buttons [data-button] {
   display: none !important;
@@ -26,4 +29,10 @@
 }
 #header2-1 P {
   color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+}
+#header2-1 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 48px;
 }
